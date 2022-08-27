@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/AnubisLMS">
-    <img alt="AnubisLMS" src="../logo512.png" width="height=512" />
+    <img alt="AnubisLMS" src="https://raw.githubusercontent.com/AnubisLMS/.github/main/logo512.png" width="height=512" />
   </a>
 </div>
 
