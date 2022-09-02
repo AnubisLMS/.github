@@ -17,16 +17,16 @@ simplify the student experience.
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnubisLMS&repo=Anubis&theme=dark" alt="stats" />
 </a>
 
-<a href="https://github.com/AnubisLMS/AnubisIDE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnubisLMS&repo=AnubisIDE&theme=dark" alt="stats" />
+<a href="https://github.com/AnubisLMS/IDE">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnubisLMS&repo=IDE&theme=dark" alt="stats" />
 </a>
 
-<a href="https://github.com/AnubisLMS/AnubisWebsite">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnubisLMS&repo=AnubisWebsite&theme=dark" alt="stats" />
+<a href="https://github.com/AnubisLMS/MarketingWebsite">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnubisLMS&repo=MarketingWebsite&theme=dark" alt="stats" />
 </a>
 
-<a href="https://github.com/AnubisLMS/AnubisCLI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnubisLMS&repo=AnubisCLI&theme=dark" alt="stats" />
+<a href="https://github.com/AnubisLMS/CLI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnubisLMS&repo=CLI&theme=dark" alt="stats" />
 </a>
 
 # Other Projects We Maintain
